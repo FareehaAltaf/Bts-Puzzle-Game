@@ -11,22 +11,18 @@ body {
 #turns {
     font-weight: bold;
     color: #7e2780;
+    /* bottom: 180px; */
 }
-
 h1 {
-    font-style: #2a2a2a;
+    color: #2a2a2a;
     position: fixed;
     width: 100%;
-    bottom: 180px;
+    bottom: 100px;
 }
 .container {
     position: fixed;
     width: 100%;
-    bottom: 140px;
-  }
-#title {
-    height: 150px auto;
-    width: 360px auto;
+    bottom: 70px;
 }
 
 #board {
@@ -50,6 +46,24 @@ h1 {
     height: 118px;
     border: 0.5px solid #ffffff;
 }
+
+
+/* #turns {
+    font-weight: bold;
+    color: #7e2780;
+    /* bottom: 180px; */
+
+/* h1 {
+    color: #2a2a2a;
+    position: fixed;
+    width: 100%;
+    bottom: 100px;
+}
+.container {
+    position: fixed;
+    width: 100%;
+    bottom: 70px;
+  } */ 
 
 /* CSS */
 .button-29 {
